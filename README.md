@@ -65,7 +65,7 @@ Converting data insights into decisions
 Akash Kashyap
 📌  Data Analyst
 🔗 LinkedIn: www.linkedin.com/in/akash-kashyap-1357a3321
-💻 GitHub: 
+💻 GitHub: https://github.com/akashkashyap000
 
 ⭐ If you like this project
 
